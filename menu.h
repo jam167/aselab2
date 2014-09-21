@@ -1,6 +1,6 @@
 
 /**************************************************************************************************/
-/* Copyright (C) SSE-USTC, 2012-2013                                                              */
+/* Copyright (C) SSE-USTC, 2014-2015                                                              */
 /*                                                                                                */
 /*  FILE NAME             :  menu.h                                                               */
 /*  PRINCIPAL AUTHOR      :  Jiangwenzhong                                                        */
@@ -8,7 +8,7 @@
 /*  MODULE NAME           :  menu                                                                 */
 /*  LANGUAGE              :  C                                                                    */
 /*  TARGET ENVIRONMENT    :  ANY                                                                  */
-/*  DATE OF FIRST RELEASE :  2012/09/20                                                           */
+/*  DATE OF FIRST RELEASE :  2014/09/20                                                           */
 /*  DESCRIPTION           :  interface of menu                                                    */
 /**************************************************************************************************/
 
